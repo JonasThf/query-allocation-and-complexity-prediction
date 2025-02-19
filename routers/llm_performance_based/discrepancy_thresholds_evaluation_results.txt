@@ -1,0 +1,875 @@
+
+--- Evaluating Model for t-threshold: t0 ---
+Filtered out the top 20% most complex queries.
+Final split: 36004 queries for training, 4000 queries for testing.
+Average Maximum Probability per Query: 0.7333
+
+Evaluating Probability Threshold: 0.1
+Quality Loss compared to GT: -2.31%
+Quality Loss compared to XL: 0.62%
+Compute Savings compared to GT: -23.35%
+Compute Savings compared to XL: 9.46%
+Routing Accuracy: 69.42%
+Total Compute Units Used: 43459.92 CUs
+Avg Routing Time per Query: 0.00000288 seconds
+Number of queries routed to Base: 198
+Number of queries routed to Large: 266
+Number of queries routed to XL: 3536
+
+Evaluating Probability Threshold: 0.2
+Quality Loss compared to GT: -2.31%
+Quality Loss compared to XL: 0.62%
+Compute Savings compared to GT: -23.35%
+Compute Savings compared to XL: 9.46%
+Routing Accuracy: 69.42%
+Total Compute Units Used: 43459.92 CUs
+Avg Routing Time per Query: 0.00000312 seconds
+Number of queries routed to Base: 198
+Number of queries routed to Large: 266
+Number of queries routed to XL: 3536
+
+Evaluating Probability Threshold: 0.3
+Quality Loss compared to GT: -2.31%
+Quality Loss compared to XL: 0.62%
+Compute Savings compared to GT: -23.35%
+Compute Savings compared to XL: 9.46%
+Routing Accuracy: 69.42%
+Total Compute Units Used: 43459.92 CUs
+Avg Routing Time per Query: 0.00000283 seconds
+Number of queries routed to Base: 198
+Number of queries routed to Large: 266
+Number of queries routed to XL: 3536
+
+Evaluating Probability Threshold: 0.4
+Quality Loss compared to GT: -2.32%
+Quality Loss compared to XL: 0.61%
+Compute Savings compared to GT: -24.33%
+Compute Savings compared to XL: 8.74%
+Routing Accuracy: 69.42%
+Total Compute Units Used: 43804.24 CUs
+Avg Routing Time per Query: 0.00000295 seconds
+Number of queries routed to Base: 178
+Number of queries routed to Large: 252
+Number of queries routed to XL: 3570
+
+Evaluating Probability Threshold: 0.5
+Quality Loss compared to GT: -2.30%
+Quality Loss compared to XL: 0.64%
+Compute Savings compared to GT: -26.85%
+Compute Savings compared to XL: 6.89%
+Routing Accuracy: 69.38%
+Total Compute Units Used: 44693.40 CUs
+Avg Routing Time per Query: 0.00000280 seconds
+Number of queries routed to Base: 123
+Number of queries routed to Large: 220
+Number of queries routed to XL: 3657
+
+Evaluating Probability Threshold: 0.6
+Quality Loss compared to GT: -2.32%
+Quality Loss compared to XL: 0.62%
+Compute Savings compared to GT: -29.12%
+Compute Savings compared to XL: 5.23%
+Routing Accuracy: 69.53%
+Total Compute Units Used: 45490.72 CUs
+Avg Routing Time per Query: 0.00000344 seconds
+Number of queries routed to Base: 82
+Number of queries routed to Large: 181
+Number of queries routed to XL: 3737
+
+Evaluating Probability Threshold: 0.7
+Quality Loss compared to GT: -2.41%
+Quality Loss compared to XL: 0.52%
+Compute Savings compared to GT: -31.86%
+Compute Savings compared to XL: 3.21%
+Routing Accuracy: 69.25%
+Total Compute Units Used: 46459.28 CUs
+Avg Routing Time per Query: 0.00000286 seconds
+Number of queries routed to Base: 44
+Number of queries routed to Large: 119
+Number of queries routed to XL: 3837
+
+Evaluating Probability Threshold: 0.8
+Quality Loss compared to GT: -2.62%
+Quality Loss compared to XL: 0.31%
+Compute Savings compared to GT: -34.56%
+Compute Savings compared to XL: 1.23%
+Routing Accuracy: 68.38%
+Total Compute Units Used: 47408.36 CUs
+Avg Routing Time per Query: 0.00000291 seconds
+Number of queries routed to Base: 11
+Number of queries routed to Large: 53
+Number of queries routed to XL: 3936
+
+Evaluating Probability Threshold: 0.9
+Quality Loss compared to GT: -2.70%
+Quality Loss compared to XL: 0.23%
+Compute Savings compared to GT: -35.43%
+Compute Savings compared to XL: 0.59%
+Routing Accuracy: 67.97%
+Total Compute Units Used: 47716.24 CUs
+Avg Routing Time per Query: 0.00000294 seconds
+Number of queries routed to Base: 4
+Number of queries routed to Large: 27
+Number of queries routed to XL: 3969
+
+Evaluating Probability Threshold: 1.0
+Quality Loss compared to GT: -2.90%
+Quality Loss compared to XL: 0.02%
+Compute Savings compared to GT: -36.19%
+Compute Savings compared to XL: 0.04%
+Routing Accuracy: 67.40%
+Total Compute Units Used: 47982.24 CUs
+Avg Routing Time per Query: 0.00000269 seconds
+Number of queries routed to Base: 0
+Number of queries routed to Large: 2
+Number of queries routed to XL: 3998
+
+--- Evaluating Model for t-threshold: t-0.005 ---
+Filtered out the top 20% most complex queries.
+Final split: 36004 queries for training, 4000 queries for testing.
+Average Maximum Probability per Query: 0.7067
+
+Evaluating Probability Threshold: 0.1
+Quality Loss compared to GT: -2.32%
+Quality Loss compared to XL: 0.57%
+Compute Savings compared to GT: -23.40%
+Compute Savings compared to XL: 12.77%
+Routing Accuracy: 66.95%
+Total Compute Units Used: 41870.20 CUs
+Avg Routing Time per Query: 0.00000289 seconds
+Number of queries routed to Base: 307
+Number of queries routed to Large: 310
+Number of queries routed to XL: 3383
+
+Evaluating Probability Threshold: 0.2
+Quality Loss compared to GT: -2.32%
+Quality Loss compared to XL: 0.57%
+Compute Savings compared to GT: -23.40%
+Compute Savings compared to XL: 12.77%
+Routing Accuracy: 66.95%
+Total Compute Units Used: 41870.20 CUs
+Avg Routing Time per Query: 0.00000288 seconds
+Number of queries routed to Base: 307
+Number of queries routed to Large: 310
+Number of queries routed to XL: 3383
+
+Evaluating Probability Threshold: 0.3
+Quality Loss compared to GT: -2.32%
+Quality Loss compared to XL: 0.57%
+Compute Savings compared to GT: -23.40%
+Compute Savings compared to XL: 12.77%
+Routing Accuracy: 66.95%
+Total Compute Units Used: 41870.20 CUs
+Avg Routing Time per Query: 0.00000278 seconds
+Number of queries routed to Base: 307
+Number of queries routed to Large: 310
+Number of queries routed to XL: 3383
+
+Evaluating Probability Threshold: 0.4
+Quality Loss compared to GT: -2.31%
+Quality Loss compared to XL: 0.58%
+Compute Savings compared to GT: -24.88%
+Compute Savings compared to XL: 11.73%
+Routing Accuracy: 66.77%
+Total Compute Units Used: 42371.44 CUs
+Avg Routing Time per Query: 0.00000299 seconds
+Number of queries routed to Base: 280
+Number of queries routed to Large: 287
+Number of queries routed to XL: 3433
+
+Evaluating Probability Threshold: 0.5
+Quality Loss compared to GT: -2.25%
+Quality Loss compared to XL: 0.64%
+Compute Savings compared to GT: -29.68%
+Compute Savings compared to XL: 8.33%
+Routing Accuracy: 66.33%
+Total Compute Units Used: 44000.52 CUs
+Avg Routing Time per Query: 0.00000276 seconds
+Number of queries routed to Base: 165
+Number of queries routed to Large: 246
+Number of queries routed to XL: 3589
+
+Evaluating Probability Threshold: 0.6
+Quality Loss compared to GT: -2.30%
+Quality Loss compared to XL: 0.59%
+Compute Savings compared to GT: -33.08%
+Compute Savings compared to XL: 5.93%
+Routing Accuracy: 66.12%
+Total Compute Units Used: 45155.68 CUs
+Avg Routing Time per Query: 0.00000277 seconds
+Number of queries routed to Base: 106
+Number of queries routed to Large: 189
+Number of queries routed to XL: 3705
+
+Evaluating Probability Threshold: 0.7
+Quality Loss compared to GT: -2.40%
+Quality Loss compared to XL: 0.49%
+Compute Savings compared to GT: -36.02%
+Compute Savings compared to XL: 3.85%
+Routing Accuracy: 65.95%
+Total Compute Units Used: 46151.28 CUs
+Avg Routing Time per Query: 0.00000280 seconds
+Number of queries routed to Base: 72
+Number of queries routed to Large: 119
+Number of queries routed to XL: 3809
+
+Evaluating Probability Threshold: 0.8
+Quality Loss compared to GT: -2.55%
+Quality Loss compared to XL: 0.33%
+Compute Savings compared to GT: -39.65%
+Compute Savings compared to XL: 1.28%
+Routing Accuracy: 65.30%
+Total Compute Units Used: 47384.24 CUs
+Avg Routing Time per Query: 0.00000285 seconds
+Number of queries routed to Base: 14
+Number of queries routed to Large: 52
+Number of queries routed to XL: 3934
+
+Evaluating Probability Threshold: 0.9
+Quality Loss compared to GT: -2.65%
+Quality Loss compared to XL: 0.23%
+Compute Savings compared to GT: -40.62%
+Compute Savings compared to XL: 0.60%
+Routing Accuracy: 64.72%
+Total Compute Units Used: 47712.00 CUs
+Avg Routing Time per Query: 0.00000293 seconds
+Number of queries routed to Base: 6
+Number of queries routed to Large: 25
+Number of queries routed to XL: 3969
+
+Evaluating Probability Threshold: 1.0
+Quality Loss compared to GT: -2.88%
+Quality Loss compared to XL: 0.00%
+Compute Savings compared to GT: -41.47%
+Compute Savings compared to XL: 0.00%
+Routing Accuracy: 64.15%
+Total Compute Units Used: 48000.00 CUs
+Avg Routing Time per Query: 0.00000276 seconds
+Number of queries routed to Base: 0
+Number of queries routed to Large: 0
+Number of queries routed to XL: 4000
+
+--- Evaluating Model for t-threshold: t-0.01 ---
+Filtered out the top 20% most complex queries.
+Final split: 36004 queries for training, 4000 queries for testing.
+Average Maximum Probability per Query: 0.6825
+
+Evaluating Probability Threshold: 0.1
+Quality Loss compared to GT: -2.34%
+Quality Loss compared to XL: 0.42%
+Compute Savings compared to GT: -24.53%
+Compute Savings compared to XL: 15.69%
+Routing Accuracy: 64.65%
+Total Compute Units Used: 40471.08 CUs
+Avg Routing Time per Query: 0.00000291 seconds
+Number of queries routed to Base: 435
+Number of queries routed to Large: 309
+Number of queries routed to XL: 3256
+
+Evaluating Probability Threshold: 0.2
+Quality Loss compared to GT: -2.34%
+Quality Loss compared to XL: 0.42%
+Compute Savings compared to GT: -24.53%
+Compute Savings compared to XL: 15.69%
+Routing Accuracy: 64.65%
+Total Compute Units Used: 40471.08 CUs
+Avg Routing Time per Query: 0.00000304 seconds
+Number of queries routed to Base: 435
+Number of queries routed to Large: 309
+Number of queries routed to XL: 3256
+
+Evaluating Probability Threshold: 0.3
+Quality Loss compared to GT: -2.34%
+Quality Loss compared to XL: 0.42%
+Compute Savings compared to GT: -24.53%
+Compute Savings compared to XL: 15.69%
+Routing Accuracy: 64.65%
+Total Compute Units Used: 40471.08 CUs
+Avg Routing Time per Query: 0.00000290 seconds
+Number of queries routed to Base: 435
+Number of queries routed to Large: 309
+Number of queries routed to XL: 3256
+
+Evaluating Probability Threshold: 0.4
+Quality Loss compared to GT: -2.28%
+Quality Loss compared to XL: 0.48%
+Compute Savings compared to GT: -26.14%
+Compute Savings compared to XL: 14.60%
+Routing Accuracy: 64.55%
+Total Compute Units Used: 40993.92 CUs
+Avg Routing Time per Query: 0.00000292 seconds
+Number of queries routed to Base: 402
+Number of queries routed to Large: 291
+Number of queries routed to XL: 3307
+
+Evaluating Probability Threshold: 0.5
+Quality Loss compared to GT: -2.20%
+Quality Loss compared to XL: 0.57%
+Compute Savings compared to GT: -32.63%
+Compute Savings compared to XL: 10.20%
+Routing Accuracy: 63.90%
+Total Compute Units Used: 43104.88 CUs
+Avg Routing Time per Query: 0.00000285 seconds
+Number of queries routed to Base: 244
+Number of queries routed to Large: 249
+Number of queries routed to XL: 3507
+
+Evaluating Probability Threshold: 0.6
+Quality Loss compared to GT: -2.24%
+Quality Loss compared to XL: 0.53%
+Compute Savings compared to GT: -37.63%
+Compute Savings compared to XL: 6.82%
+Routing Accuracy: 63.15%
+Total Compute Units Used: 44728.40 CUs
+Avg Routing Time per Query: 0.00000278 seconds
+Number of queries routed to Base: 140
+Number of queries routed to Large: 195
+Number of queries routed to XL: 3665
+
+Evaluating Probability Threshold: 0.7
+Quality Loss compared to GT: -2.26%
+Quality Loss compared to XL: 0.51%
+Compute Savings compared to GT: -40.99%
+Compute Savings compared to XL: 4.54%
+Routing Accuracy: 62.92%
+Total Compute Units Used: 45820.08 CUs
+Avg Routing Time per Query: 0.00000291 seconds
+Number of queries routed to Base: 90
+Number of queries routed to Large: 134
+Number of queries routed to XL: 3776
+
+Evaluating Probability Threshold: 0.8
+Quality Loss compared to GT: -2.43%
+Quality Loss compared to XL: 0.33%
+Compute Savings compared to GT: -45.19%
+Compute Savings compared to XL: 1.70%
+Routing Accuracy: 61.82%
+Total Compute Units Used: 47185.44 CUs
+Avg Routing Time per Query: 0.00000275 seconds
+Number of queries routed to Base: 24
+Number of queries routed to Large: 62
+Number of queries routed to XL: 3914
+
+Evaluating Probability Threshold: 0.9
+Quality Loss compared to GT: -2.53%
+Quality Loss compared to XL: 0.23%
+Compute Savings compared to GT: -46.69%
+Compute Savings compared to XL: 0.68%
+Routing Accuracy: 61.35%
+Total Compute Units Used: 47674.36 CUs
+Avg Routing Time per Query: 0.00000291 seconds
+Number of queries routed to Base: 7
+Number of queries routed to Large: 28
+Number of queries routed to XL: 3965
+
+Evaluating Probability Threshold: 1.0
+Quality Loss compared to GT: -2.74%
+Quality Loss compared to XL: 0.01%
+Compute Savings compared to GT: -47.67%
+Compute Savings compared to XL: 0.02%
+Routing Accuracy: 60.72%
+Total Compute Units Used: 47991.12 CUs
+Avg Routing Time per Query: 0.00000274 seconds
+Number of queries routed to Base: 0
+Number of queries routed to Large: 1
+Number of queries routed to XL: 3999
+
+--- Evaluating Model for t-threshold: t-0.015 ---
+Filtered out the top 20% most complex queries.
+Final split: 36004 queries for training, 4000 queries for testing.
+Average Maximum Probability per Query: 0.6626
+
+Evaluating Probability Threshold: 0.1
+Quality Loss compared to GT: -2.29%
+Quality Loss compared to XL: 0.27%
+Compute Savings compared to GT: -24.61%
+Compute Savings compared to XL: 19.63%
+Routing Accuracy: 62.42%
+Total Compute Units Used: 38576.16 CUs
+Avg Routing Time per Query: 0.00000309 seconds
+Number of queries routed to Base: 600
+Number of queries routed to Large: 318
+Number of queries routed to XL: 3082
+
+Evaluating Probability Threshold: 0.2
+Quality Loss compared to GT: -2.29%
+Quality Loss compared to XL: 0.27%
+Compute Savings compared to GT: -24.61%
+Compute Savings compared to XL: 19.63%
+Routing Accuracy: 62.42%
+Total Compute Units Used: 38576.16 CUs
+Avg Routing Time per Query: 0.00000299 seconds
+Number of queries routed to Base: 600
+Number of queries routed to Large: 318
+Number of queries routed to XL: 3082
+
+Evaluating Probability Threshold: 0.3
+Quality Loss compared to GT: -2.29%
+Quality Loss compared to XL: 0.27%
+Compute Savings compared to GT: -24.61%
+Compute Savings compared to XL: 19.63%
+Routing Accuracy: 62.42%
+Total Compute Units Used: 38576.16 CUs
+Avg Routing Time per Query: 0.00000281 seconds
+Number of queries routed to Base: 600
+Number of queries routed to Large: 318
+Number of queries routed to XL: 3082
+
+Evaluating Probability Threshold: 0.4
+Quality Loss compared to GT: -2.24%
+Quality Loss compared to XL: 0.32%
+Compute Savings compared to GT: -26.29%
+Compute Savings compared to XL: 18.55%
+Routing Accuracy: 62.35%
+Total Compute Units Used: 39094.76 CUs
+Avg Routing Time per Query: 0.00000289 seconds
+Number of queries routed to Base: 569
+Number of queries routed to Large: 298
+Number of queries routed to XL: 3133
+
+Evaluating Probability Threshold: 0.5
+Quality Loss compared to GT: -2.14%
+Quality Loss compared to XL: 0.42%
+Compute Savings compared to GT: -34.87%
+Compute Savings compared to XL: 13.01%
+Routing Accuracy: 61.12%
+Total Compute Units Used: 41753.60 CUs
+Avg Routing Time per Query: 0.00000278 seconds
+Number of queries routed to Base: 362
+Number of queries routed to Large: 255
+Number of queries routed to XL: 3383
+
+Evaluating Probability Threshold: 0.6
+Quality Loss compared to GT: -2.09%
+Quality Loss compared to XL: 0.47%
+Compute Savings compared to GT: -42.59%
+Compute Savings compared to XL: 8.03%
+Routing Accuracy: 60.22%
+Total Compute Units Used: 44143.28 CUs
+Avg Routing Time per Query: 0.00000340 seconds
+Number of queries routed to Base: 194
+Number of queries routed to Large: 194
+Number of queries routed to XL: 3612
+
+Evaluating Probability Threshold: 0.7
+Quality Loss compared to GT: -2.12%
+Quality Loss compared to XL: 0.45%
+Compute Savings compared to GT: -47.20%
+Compute Savings compared to XL: 5.06%
+Routing Accuracy: 59.50%
+Total Compute Units Used: 45569.20 CUs
+Avg Routing Time per Query: 0.00000276 seconds
+Number of queries routed to Base: 112
+Number of queries routed to Large: 135
+Number of queries routed to XL: 3753
+
+Evaluating Probability Threshold: 0.8
+Quality Loss compared to GT: -2.20%
+Quality Loss compared to XL: 0.36%
+Compute Savings compared to GT: -51.71%
+Compute Savings compared to XL: 2.15%
+Routing Accuracy: 58.48%
+Total Compute Units Used: 46967.16 CUs
+Avg Routing Time per Query: 0.00000305 seconds
+Number of queries routed to Base: 39
+Number of queries routed to Large: 68
+Number of queries routed to XL: 3893
+
+Evaluating Probability Threshold: 0.9
+Quality Loss compared to GT: -2.32%
+Quality Loss compared to XL: 0.24%
+Compute Savings compared to GT: -53.91%
+Compute Savings compared to XL: 0.73%
+Routing Accuracy: 57.75%
+Total Compute Units Used: 47648.12 CUs
+Avg Routing Time per Query: 0.00000274 seconds
+Number of queries routed to Base: 11
+Number of queries routed to Large: 26
+Number of queries routed to XL: 3963
+
+Evaluating Probability Threshold: 1.0
+Quality Loss compared to GT: -2.54%
+Quality Loss compared to XL: 0.01%
+Compute Savings compared to GT: -55.02%
+Compute Savings compared to XL: 0.02%
+Routing Accuracy: 56.97%
+Total Compute Units Used: 47991.12 CUs
+Avg Routing Time per Query: 0.00000270 seconds
+Number of queries routed to Base: 0
+Number of queries routed to Large: 1
+Number of queries routed to XL: 3999
+
+--- Evaluating Model for t-threshold: t-0.02 ---
+Filtered out the top 20% most complex queries.
+Final split: 36004 queries for training, 4000 queries for testing.
+Average Maximum Probability per Query: 0.6419
+
+Evaluating Probability Threshold: 0.1
+Quality Loss compared to GT: -2.30%
+Quality Loss compared to XL: -0.05%
+Compute Savings compared to GT: -24.46%
+Compute Savings compared to XL: 23.69%
+Routing Accuracy: 60.32%
+Total Compute Units Used: 36629.28 CUs
+Avg Routing Time per Query: 0.00000334 seconds
+Number of queries routed to Base: 756
+Number of queries routed to Large: 344
+Number of queries routed to XL: 2900
+
+Evaluating Probability Threshold: 0.2
+Quality Loss compared to GT: -2.30%
+Quality Loss compared to XL: -0.05%
+Compute Savings compared to GT: -24.46%
+Compute Savings compared to XL: 23.69%
+Routing Accuracy: 60.32%
+Total Compute Units Used: 36629.28 CUs
+Avg Routing Time per Query: 0.00000284 seconds
+Number of queries routed to Base: 756
+Number of queries routed to Large: 344
+Number of queries routed to XL: 2900
+
+Evaluating Probability Threshold: 0.3
+Quality Loss compared to GT: -2.30%
+Quality Loss compared to XL: -0.05%
+Compute Savings compared to GT: -24.46%
+Compute Savings compared to XL: 23.69%
+Routing Accuracy: 60.32%
+Total Compute Units Used: 36629.28 CUs
+Avg Routing Time per Query: 0.00000339 seconds
+Number of queries routed to Base: 756
+Number of queries routed to Large: 344
+Number of queries routed to XL: 2900
+
+Evaluating Probability Threshold: 0.4
+Quality Loss compared to GT: -2.20%
+Quality Loss compared to XL: 0.06%
+Compute Savings compared to GT: -26.55%
+Compute Savings compared to XL: 22.40%
+Routing Accuracy: 60.38%
+Total Compute Units Used: 37246.48 CUs
+Avg Routing Time per Query: 0.00000285 seconds
+Number of queries routed to Base: 712
+Number of queries routed to Large: 329
+Number of queries routed to XL: 2959
+
+Evaluating Probability Threshold: 0.5
+Quality Loss compared to GT: -1.84%
+Quality Loss compared to XL: 0.42%
+Compute Savings compared to GT: -38.12%
+Compute Savings compared to XL: 15.31%
+Routing Accuracy: 59.67%
+Total Compute Units Used: 40652.00 CUs
+Avg Routing Time per Query: 0.00000290 seconds
+Number of queries routed to Base: 446
+Number of queries routed to Large: 275
+Number of queries routed to XL: 3279
+
+Evaluating Probability Threshold: 0.6
+Quality Loss compared to GT: -1.72%
+Quality Loss compared to XL: 0.54%
+Compute Savings compared to GT: -47.14%
+Compute Savings compared to XL: 9.78%
+Routing Accuracy: 58.25%
+Total Compute Units Used: 43304.88 CUs
+Avg Routing Time per Query: 0.00000280 seconds
+Number of queries routed to Base: 246
+Number of queries routed to Large: 224
+Number of queries routed to XL: 3530
+
+Evaluating Probability Threshold: 0.7
+Quality Loss compared to GT: -1.84%
+Quality Loss compared to XL: 0.42%
+Compute Savings compared to GT: -53.46%
+Compute Savings compared to XL: 5.91%
+Routing Accuracy: 56.65%
+Total Compute Units Used: 45165.24 CUs
+Avg Routing Time per Query: 0.00000286 seconds
+Number of queries routed to Base: 135
+Number of queries routed to Large: 152
+Number of queries routed to XL: 3713
+
+Evaluating Probability Threshold: 0.8
+Quality Loss compared to GT: -1.92%
+Quality Loss compared to XL: 0.34%
+Compute Savings compared to GT: -59.23%
+Compute Savings compared to XL: 2.37%
+Routing Accuracy: 55.05%
+Total Compute Units Used: 46863.92 CUs
+Avg Routing Time per Query: 0.00000275 seconds
+Number of queries routed to Base: 50
+Number of queries routed to Large: 66
+Number of queries routed to XL: 3884
+
+Evaluating Probability Threshold: 0.9
+Quality Loss compared to GT: -2.04%
+Quality Loss compared to XL: 0.22%
+Compute Savings compared to GT: -61.87%
+Compute Savings compared to XL: 0.75%
+Routing Accuracy: 54.23%
+Total Compute Units Used: 47641.76 CUs
+Avg Routing Time per Query: 0.00000343 seconds
+Number of queries routed to Base: 14
+Number of queries routed to Large: 23
+Number of queries routed to XL: 3963
+
+Evaluating Probability Threshold: 1.0
+Quality Loss compared to GT: -2.21%
+Quality Loss compared to XL: 0.04%
+Compute Savings compared to GT: -63.00%
+Compute Savings compared to XL: 0.06%
+Routing Accuracy: 53.47%
+Total Compute Units Used: 47973.36 CUs
+Avg Routing Time per Query: 0.00000277 seconds
+Number of queries routed to Base: 0
+Number of queries routed to Large: 3
+Number of queries routed to XL: 3997
+
+--- Evaluating Model for t-threshold: t-0.025 ---
+Filtered out the top 20% most complex queries.
+Final split: 36004 queries for training, 4000 queries for testing.
+Average Maximum Probability per Query: 0.6272
+
+Evaluating Probability Threshold: 0.1
+Quality Loss compared to GT: -2.35%
+Quality Loss compared to XL: -0.44%
+Compute Savings compared to GT: -22.30%
+Compute Savings compared to XL: 28.28%
+Routing Accuracy: 58.35%
+Total Compute Units Used: 34426.48 CUs
+Avg Routing Time per Query: 0.00000292 seconds
+Number of queries routed to Base: 928
+Number of queries routed to Large: 379
+Number of queries routed to XL: 2693
+
+Evaluating Probability Threshold: 0.2
+Quality Loss compared to GT: -2.35%
+Quality Loss compared to XL: -0.44%
+Compute Savings compared to GT: -22.30%
+Compute Savings compared to XL: 28.28%
+Routing Accuracy: 58.35%
+Total Compute Units Used: 34426.48 CUs
+Avg Routing Time per Query: 0.00000283 seconds
+Number of queries routed to Base: 928
+Number of queries routed to Large: 379
+Number of queries routed to XL: 2693
+
+Evaluating Probability Threshold: 0.3
+Quality Loss compared to GT: -2.35%
+Quality Loss compared to XL: -0.44%
+Compute Savings compared to GT: -22.30%
+Compute Savings compared to XL: 28.28%
+Routing Accuracy: 58.35%
+Total Compute Units Used: 34426.48 CUs
+Avg Routing Time per Query: 0.00000343 seconds
+Number of queries routed to Base: 928
+Number of queries routed to Large: 379
+Number of queries routed to XL: 2693
+
+Evaluating Probability Threshold: 0.4
+Quality Loss compared to GT: -2.15%
+Quality Loss compared to XL: -0.24%
+Compute Savings compared to GT: -25.00%
+Compute Savings compared to XL: 26.69%
+Routing Accuracy: 58.58%
+Total Compute Units Used: 35187.48 CUs
+Avg Routing Time per Query: 0.00000290 seconds
+Number of queries routed to Base: 879
+Number of queries routed to Large: 354
+Number of queries routed to XL: 2767
+
+Evaluating Probability Threshold: 0.5
+Quality Loss compared to GT: -1.76%
+Quality Loss compared to XL: 0.16%
+Compute Savings compared to GT: -39.45%
+Compute Savings compared to XL: 18.22%
+Routing Accuracy: 57.23%
+Total Compute Units Used: 39253.80 CUs
+Avg Routing Time per Query: 0.00000286 seconds
+Number of queries routed to Base: 561
+Number of queries routed to Large: 290
+Number of queries routed to XL: 3149
+
+Evaluating Probability Threshold: 0.6
+Quality Loss compared to GT: -1.51%
+Quality Loss compared to XL: 0.42%
+Compute Savings compared to GT: -51.41%
+Compute Savings compared to XL: 11.20%
+Routing Accuracy: 56.00%
+Total Compute Units Used: 42622.48 CUs
+Avg Routing Time per Query: 0.00000315 seconds
+Number of queries routed to Base: 304
+Number of queries routed to Large: 229
+Number of queries routed to XL: 3467
+
+Evaluating Probability Threshold: 0.7
+Quality Loss compared to GT: -1.56%
+Quality Loss compared to XL: 0.36%
+Compute Savings compared to GT: -57.99%
+Compute Savings compared to XL: 7.34%
+Routing Accuracy: 54.37%
+Total Compute Units Used: 44474.88 CUs
+Avg Routing Time per Query: 0.00000281 seconds
+Number of queries routed to Base: 180
+Number of queries routed to Large: 174
+Number of queries routed to XL: 3646
+
+Evaluating Probability Threshold: 0.8
+Quality Loss compared to GT: -1.58%
+Quality Loss compared to XL: 0.35%
+Compute Savings compared to GT: -65.99%
+Compute Savings compared to XL: 2.66%
+Routing Accuracy: 52.45%
+Total Compute Units Used: 46725.16 CUs
+Avg Routing Time per Query: 0.00000321 seconds
+Number of queries routed to Base: 61
+Number of queries routed to Large: 68
+Number of queries routed to XL: 3871
+
+Evaluating Probability Threshold: 0.9
+Quality Loss compared to GT: -1.69%
+Quality Loss compared to XL: 0.23%
+Compute Savings compared to GT: -69.04%
+Compute Savings compared to XL: 0.87%
+Routing Accuracy: 51.50%
+Total Compute Units Used: 47584.24 CUs
+Avg Routing Time per Query: 0.00000293 seconds
+Number of queries routed to Base: 16
+Number of queries routed to Large: 27
+Number of queries routed to XL: 3957
+
+Evaluating Probability Threshold: 1.0
+Quality Loss compared to GT: -1.90%
+Quality Loss compared to XL: 0.01%
+Compute Savings compared to GT: -70.49%
+Compute Savings compared to XL: 0.02%
+Routing Accuracy: 50.55%
+Total Compute Units Used: 47991.12 CUs
+Avg Routing Time per Query: 0.00000314 seconds
+Number of queries routed to Base: 0
+Number of queries routed to Large: 1
+Number of queries routed to XL: 3999
+
+--- Evaluating Model for t-threshold: t-0.03 ---
+Filtered out the top 20% most complex queries.
+Final split: 36004 queries for training, 4000 queries for testing.
+Average Maximum Probability per Query: 0.6139
+
+Evaluating Probability Threshold: 0.1
+Quality Loss compared to GT: -2.48%
+Quality Loss compared to XL: -0.96%
+Compute Savings compared to GT: -19.13%
+Compute Savings compared to XL: 33.10%
+Routing Accuracy: 56.47%
+Total Compute Units Used: 32112.76 CUs
+Avg Routing Time per Query: 0.00000303 seconds
+Number of queries routed to Base: 1123
+Number of queries routed to Large: 398
+Number of queries routed to XL: 2479
+
+Evaluating Probability Threshold: 0.2
+Quality Loss compared to GT: -2.48%
+Quality Loss compared to XL: -0.96%
+Compute Savings compared to GT: -19.13%
+Compute Savings compared to XL: 33.10%
+Routing Accuracy: 56.47%
+Total Compute Units Used: 32112.76 CUs
+Avg Routing Time per Query: 0.00000291 seconds
+Number of queries routed to Base: 1123
+Number of queries routed to Large: 398
+Number of queries routed to XL: 2479
+
+Evaluating Probability Threshold: 0.3
+Quality Loss compared to GT: -2.48%
+Quality Loss compared to XL: -0.96%
+Compute Savings compared to GT: -19.13%
+Compute Savings compared to XL: 33.10%
+Routing Accuracy: 56.47%
+Total Compute Units Used: 32112.76 CUs
+Avg Routing Time per Query: 0.00000285 seconds
+Number of queries routed to Base: 1123
+Number of queries routed to Large: 398
+Number of queries routed to XL: 2479
+
+Evaluating Probability Threshold: 0.4
+Quality Loss compared to GT: -2.30%
+Quality Loss compared to XL: -0.78%
+Compute Savings compared to GT: -22.12%
+Compute Savings compared to XL: 31.42%
+Routing Accuracy: 56.40%
+Total Compute Units Used: 32918.56 CUs
+Avg Routing Time per Query: 0.00000275 seconds
+Number of queries routed to Base: 1078
+Number of queries routed to Large: 363
+Number of queries routed to XL: 2559
+
+Evaluating Probability Threshold: 0.5
+Quality Loss compared to GT: -1.58%
+Quality Loss compared to XL: -0.05%
+Compute Savings compared to GT: -37.79%
+Compute Savings compared to XL: 22.62%
+Routing Accuracy: 55.93%
+Total Compute Units Used: 37143.52 CUs
+Avg Routing Time per Query: 0.00000293 seconds
+Number of queries routed to Base: 748
+Number of queries routed to Large: 296
+Number of queries routed to XL: 2956
+
+Evaluating Probability Threshold: 0.6
+Quality Loss compared to GT: -1.26%
+Quality Loss compared to XL: 0.27%
+Compute Savings compared to GT: -55.17%
+Compute Savings compared to XL: 12.86%
+Routing Accuracy: 54.00%
+Total Compute Units Used: 41826.24 CUs
+Avg Routing Time per Query: 0.00000284 seconds
+Number of queries routed to Base: 378
+Number of queries routed to Large: 227
+Number of queries routed to XL: 3395
+
+Evaluating Probability Threshold: 0.7
+Quality Loss compared to GT: -1.21%
+Quality Loss compared to XL: 0.33%
+Compute Savings compared to GT: -63.30%
+Compute Savings compared to XL: 8.29%
+Routing Accuracy: 52.60%
+Total Compute Units Used: 44019.24 CUs
+Avg Routing Time per Query: 0.00000346 seconds
+Number of queries routed to Base: 219
+Number of queries routed to Large: 177
+Number of queries routed to XL: 3604
+
+Evaluating Probability Threshold: 0.8
+Quality Loss compared to GT: -1.17%
+Quality Loss compared to XL: 0.37%
+Compute Savings compared to GT: -71.88%
+Compute Savings compared to XL: 3.48%
+Routing Accuracy: 50.38%
+Total Compute Units Used: 46330.48 CUs
+Avg Routing Time per Query: 0.00000291 seconds
+Number of queries routed to Base: 88
+Number of queries routed to Large: 79
+Number of queries routed to XL: 3833
+
+Evaluating Probability Threshold: 0.9
+Quality Loss compared to GT: -1.34%
+Quality Loss compared to XL: 0.20%
+Compute Savings compared to GT: -75.96%
+Compute Savings compared to XL: 1.19%
+Routing Accuracy: 48.93%
+Total Compute Units Used: 47429.84 CUs
+Avg Routing Time per Query: 0.00000285 seconds
+Number of queries routed to Base: 26
+Number of queries routed to Large: 32
+Number of queries routed to XL: 3942
+
+Evaluating Probability Threshold: 1.0
+Quality Loss compared to GT: -1.49%
+Quality Loss compared to XL: 0.04%
+Compute Savings compared to GT: -77.94%
+Compute Savings compared to XL: 0.07%
+Routing Accuracy: 47.95%
+Total Compute Units Used: 47964.48 CUs
+Avg Routing Time per Query: 0.00000282 seconds
+Number of queries routed to Base: 0
+Number of queries routed to Large: 4
+Number of queries routed to XL: 3996
