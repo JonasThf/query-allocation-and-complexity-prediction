@@ -7,8 +7,8 @@ from tqdm import tqdm
 model_name = "t5_base"
 
 # Paths to input and output files
-input_file = f"train_data_with_50k_times_10_{model_name}_answers_with_avgtime_max5000.jsonl"
-output_file = f"bleu_scores_{model_name}.jsonl"
+input_file = f"../../datasets/generated/step_7/train_data_with_50k_times_10_{model_name}_answers_with_avgtime_max5000.jsonl"
+output_file = f"../../datasets/generated/step_8/bleu_scores_{model_name}.jsonl"
 
 # Function to calculate BLEU score
 def calculate_bleu(candidate, reference):

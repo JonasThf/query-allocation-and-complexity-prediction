@@ -32,8 +32,8 @@ def is_invalid_response(response):
 model = "t5_base"
 
 # File paths
-input_file = f'train_data_with_50k_times_10_{model}_answers_with_avgtime_max5000.jsonl'
-output_file = f'logprobs_scores_{model}.jsonl'
+input_file = f'../../datasets/generated/step_7/train_data_with_50k_times_10_{model}_answers_with_avgtime_max5000.jsonl'
+output_file = f'../../datasets/generated/step_8/logprobs_scores_{model}.jsonl'
 
 # Load dataset
 df = pd.read_json(input_file, orient='records', lines=True)
