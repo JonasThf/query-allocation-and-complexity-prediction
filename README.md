@@ -29,9 +29,10 @@ This repository contains all code, datasets, and scripts for the query allocatio
    source env/bin/activate  (Windows: env\Scripts\activate)  
 
 2. Install Dependencies  
-   pip install -r requirements.txt  
+   pip install -r requirements.txt
+   INFO: Its possible that packages will be installes which are not needed.
 
-3. Install Jupyter Kernel  
+4. Install Jupyter Kernel  
    Before running any Jupyter notebook, install the kernel for the virtual environment:  
    python -m ipykernel install --user --name=env --display-name "Python (env)"  
 
